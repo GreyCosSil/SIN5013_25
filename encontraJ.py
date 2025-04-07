@@ -17,6 +17,8 @@ def encontraJ(A,e,d,x):
         print(f"e: {e}")
         return encontraJ(A,e,d,x)
 
+
+#teste de mesa
 A = [1,3,5,7,9,10]
 e = 0
 d = len(A)-1
